@@ -59,7 +59,7 @@ public class BaseTests {
 
 	public void setUpDriver() {
 		System.setProperty("webdriver.chrome.driver",
-				System.getProperty("user.dir") + File.separator + "driver" + File.separator + "chromedriver");
+				System.getProperty("user.dir") + File.separator + "driver" + File.separator + "chromedriver.exe");
 		driver = new ChromeDriver();
 	}
 }
