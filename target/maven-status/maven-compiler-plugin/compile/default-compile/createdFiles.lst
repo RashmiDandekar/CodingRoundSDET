@@ -1,9 +1,0 @@
-pages\IMDB.class
-utils\Constants.class
-pages\Wiki.class
-utils\RetryAnalyzer.class
-pageObjects\IMDBElements.class
-tests\CompareTests.class
-utils\SuiteListener.class
-pageObjects\WikiElements.class
-tests\BaseTests.class
